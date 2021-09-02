@@ -1,4 +1,4 @@
-module github.com/chanced/go-jwt
+module github.com/chanced/go-jwt/v4
 
 go 1.15
 
