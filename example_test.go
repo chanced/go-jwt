@@ -4,7 +4,7 @@ package jwt_test
 // 	"fmt"
 // 	"time"
 
-// 	"github.com/golang-jwt/jwt/v4"
+// 	"github.com/chanced/go-jwt/v4"
 // )
 
 // // Example (atypical) using the RegisteredClaims type by itself to parse a token.

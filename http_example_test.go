@@ -16,8 +16,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/golang-jwt/jwt/v4"
-	"github.com/golang-jwt/jwt/v4/request"
+	"github.com/chanced/go-jwt/v4"
+	"github.com/chanced/go-jwt/v4/request"
 )
 
 // location of the files used for signing and verification
